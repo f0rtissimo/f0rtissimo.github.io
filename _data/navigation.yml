@@ -2,6 +2,16 @@
 main:
   - title: "Research"
     url: /Research/
+  - title: "Vim"
+    url: /Vim/
+  - title: "Linux"
+    url: /Linux/
+  - title: "Music"
+    url: /Music/
+  - title: "ACG"
+    url: /ACG/
+  - title: "Others"
+    url: /Others/
 
 #  - title: "Publications"
 #    url: /publications/
